@@ -1,0 +1,10 @@
+national_road_type_id,National Road Type
+NR1,Arterial Road
+NR2,Local Road
+NR3,National or State Highway
+NR4,Sub-arterial Road
+NR5,Unknown
+NR6,Collector Road
+NR7,Pedestrian Thoroughfare
+NR8,Access road
+NR9,Busway

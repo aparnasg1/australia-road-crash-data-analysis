@@ -1,0 +1,9 @@
+road_user_id,Road User
+RU1,Driver
+RU2,Passenger
+RU3,Motorcycle rider
+RU4,Pedestrian
+RU5,Pedal cyclist
+RU6,Others
+RU7,Unknown
+RU8,Motorcycle pillion passenger

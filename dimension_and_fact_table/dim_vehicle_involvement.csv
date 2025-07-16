@@ -1,0 +1,15 @@
+vehicle_involvement_id,Bus Involvement,Heavy Rigid Truck Involvement,Articulated Truck Involvement,Vehicle Involvement
+VI1,No,No,No,No Heavy Vehicles Involved
+VI2,No,No,Yes,Only Articulated Truck Involved as Known
+VI3,Unknown,Unknown,Unknown,Unknown
+VI4,Yes,No,Yes,Bus and Articulated Truck Involved as Known
+VI5,No,Yes,No,Only Heavy Rigid Truck Involved as Known
+VI6,Unknown,Yes,Unknown,Only Heavy Rigid Truck Involved as Known
+VI7,No,Yes,Yes,Articulated Truck and Heavy Rigid Truck Involved as Known
+VI8,Yes,No,No,Only Bus Involved as Known
+VI9,Unknown,Unknown,Yes,Only Articulated Truck Involved as Known
+VI10,Yes,Yes,No,Bus and Heavy Rigid Truck Involved as Known
+VI11,No,Unknown,No,Unknown
+VI12,No,Unknown,Yes,Only Articulated Truck Involved as Known
+VI13,Yes,Unknown,No,Only Bus Involved as Known
+VI14,Yes,Unknown,Yes,Bus and Articulated Truck Involved as Known

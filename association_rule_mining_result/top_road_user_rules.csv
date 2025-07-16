@@ -1,0 +1,11 @@
+antecedents,consequents,support,confidence,lift
+Gender=Female,Road User=Passenger,0.107,0.379,1.685
+Gender=Female,"Holiday Indicator=Non-Holiday, Road User=Passenger",0.102,0.361,1.681
+"Gender=Female, Holiday Indicator=Non-Holiday",Road User=Passenger,0.102,0.376,1.674
+"Crash Type=Single, Holiday Indicator=Non-Holiday",Road User=Pedestrian,0.13,0.245,1.593
+Crash Type=Single,Road User=Pedestrian,0.134,0.243,1.581
+Crash Type=Single,"Holiday Indicator=Non-Holiday, Road User=Pedestrian",0.13,0.236,1.58
+"Crash Type=Multiple, Day of week=Weekday","Holiday Indicator=Non-Holiday, Road User=Driver, Time of day=Day",0.111,0.352,1.41
+"Crash Type=Multiple, Day of week=Weekday, Holiday Indicator=Non-Holiday","Road User=Driver, Time of day=Day",0.111,0.365,1.407
+"Crash Type=Multiple, Day of week=Weekday","Road User=Driver, Time of day=Day",0.115,0.364,1.405
+"Gender=Male, Time of day=Night","Crash Type=Single, Holiday Indicator=Non-Holiday, Road User=Driver",0.105,0.314,1.375

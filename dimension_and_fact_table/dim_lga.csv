@@ -1,0 +1,558 @@
+lga_id,LGA,Dwellings Count
+LGA0,Unknown,0
+LGA1,Albury,25430
+LGA2,Armidale Regional,12955
+LGA3,Ballina,20889
+LGA4,Balranald,1091
+LGA5,Bathurst Regional,18458
+LGA6,Bayside (NSW),74840
+LGA7,Bega Valley,18867
+LGA8,Bellingen,6390
+LGA9,Berrigan,4265
+LGA10,Blacktown,133984
+LGA11,Bland,3107
+LGA12,Blayney,3246
+LGA13,Blue Mountains,35239
+LGA14,Bogan,1306
+LGA15,Bourke,1317
+LGA16,Brewarrina,740
+LGA17,Broken Hill,9591
+LGA18,Burwood,16201
+LGA19,Byron,16996
+LGA20,Cabonne,5895
+LGA21,Camden,39601
+LGA22,Campbelltown (NSW),63128
+LGA23,Canada Bay,39121
+LGA24,Canterbury-Bankstown,133438
+LGA25,Carrathool,1312
+LGA26,Central Coast (NSW),152870
+LGA27,Central Darling,1065
+LGA28,Cessnock,25812
+LGA29,Clarence Valley,26143
+LGA30,Cobar,2320
+LGA31,Coffs Harbour,34696
+LGA32,Coolamon,1974
+LGA33,Coonamble,1825
+LGA34,Cootamundra-Gundagai Regional,5510
+LGA35,Cowra,6267
+LGA36,Cumberland,83189
+LGA37,Dubbo Regional,22823
+LGA38,Dungog,4224
+LGA39,Edward River,4252
+LGA40,Eurobodalla,24600
+LGA41,Fairfield,67658
+LGA42,Federation,6546
+LGA43,Forbes,4373
+LGA44,Georges River,58429
+LGA45,Gilgandra,2137
+LGA46,Glen Innes Severn,4610
+LGA47,Goulburn Mulwaree,14739
+LGA48,Greater Hume Shire,4846
+LGA49,Griffith,10833
+LGA50,Gunnedah,5842
+LGA51,Gwydir,2443
+LGA52,Hawkesbury,25523
+LGA53,Hay,1552
+LGA54,Hilltops,9220
+LGA55,Hornsby,55952
+LGA56,Hunters Hill,5323
+LGA57,Inner West,85462
+LGA58,Inverell,8137
+LGA59,Junee,2519
+LGA60,Kempsey,14292
+LGA61,Kiama,10785
+LGA62,Ku-ring-gai,45894
+LGA63,Kyogle,4688
+LGA64,Lachlan,3014
+LGA65,Lake Macquarie,88908
+LGA66,Lane Cove,17340
+LGA67,Leeton,4705
+LGA68,Lismore,19781
+LGA69,Lithgow,10236
+LGA70,Liverpool,77895
+LGA71,Liverpool Plains,3694
+LGA72,Lockhart,1417
+LGA73,Maitland,35456
+LGA74,Mid-Coast,50474
+LGA75,Mid-Western Regional,12262
+LGA76,Moree Plains,6230
+LGA77,Mosman,13410
+LGA78,Murray River,6268
+LGA79,Murrumbidgee,1647
+LGA80,Muswellbrook,7333
+LGA81,Nambucca Valley,10016
+LGA82,Narrabri,5997
+LGA83,Narrandera,2694
+LGA84,Narromine,2851
+LGA85,Newcastle,74585
+LGA86,North Sydney,39034
+LGA87,Northern Beaches,105115
+LGA88,Oberon,2828
+LGA89,Orange,18706
+LGA90,Parkes,6697
+LGA91,Parramatta,106654
+LGA92,Penrith,81250
+LGA93,Port Macquarie-Hastings,40066
+LGA94,Port Stephens,35699
+LGA95,Queanbeyan-Palerang Regional,26549
+LGA96,Randwick,59965
+LGA97,Richmond Valley,10692
+LGA98,Ryde,55742
+LGA99,Shellharbour,29884
+LGA100,Shoalhaven,58799
+LGA101,Singleton,9838
+LGA102,Snowy Monaro Regional,12251
+LGA103,Snowy Valleys,7075
+LGA104,Strathfield,18287
+LGA105,Sutherland Shire,90981
+LGA106,Sydney,124114
+LGA107,Tamworth Regional,27725
+LGA108,Temora,2926
+LGA109,Tenterfield,3968
+LGA110,The Hills Shire,64080
+LGA111,Tweed,44661
+LGA112,Upper Hunter Shire,6793
+LGA113,Upper Lachlan Shire,4584
+LGA114,Uralla,2759
+LGA115,Wagga Wagga,28244
+LGA116,Walcha,1638
+LGA117,Walgett,2865
+LGA118,Warren,1228
+LGA119,Warrumbungle Shire,4739
+LGA120,Waverley,32850
+LGA121,Weddin,1869
+LGA122,Wentworth,3457
+LGA123,Willoughby,31175
+LGA124,Wingecarribee,23623
+LGA125,Wollondilly,18918
+LGA126,Wollongong,89476
+LGA127,Woollahra,26588
+LGA128,Yass Valley,6823
+LGA129,Unincorporated NSW,549
+LGA130,Migratory - Offshore - Shipping (NSW),34
+LGA131,Alpine,7271
+LGA132,Ararat,5509
+LGA133,Ballarat,50347
+LGA134,Banyule,53031
+LGA135,Bass Coast,28981
+LGA136,Baw Baw,24522
+LGA137,Bayside (Vic.),43102
+LGA138,Benalla,7211
+LGA139,Boroondara,72924
+LGA140,Brimbank,71871
+LGA141,Buloke,3397
+LGA142,Campaspe,17840
+LGA143,Cardinia,43533
+LGA144,Casey,122674
+LGA145,Central Goldfields,7004
+LGA146,Colac Otway,12460
+LGA147,Corangamite,7897
+LGA148,Darebin,68366
+LGA149,East Gippsland,26078
+LGA150,Frankston,58890
+LGA151,Gannawarra,5326
+LGA152,Glen Eira,66235
+LGA153,Glenelg,10173
+LGA154,Golden Plains,9408
+LGA155,Greater Bendigo,53173
+LGA156,Greater Dandenong,58198
+LGA157,Greater Geelong,120823
+LGA158,Greater Shepparton,28885
+LGA159,Hepburn,9511
+LGA160,Hindmarsh,3110
+LGA161,Hobsons Bay,39336
+LGA162,Horsham,9638
+LGA163,Hume,83980
+LGA164,Indigo,7750
+LGA165,Kingston (Vic.),67622
+LGA166,Knox,62012
+LGA167,Latrobe (Vic.),35685
+LGA168,Loddon,4323
+LGA169,Macedon Ranges,20630
+LGA170,Manningham,49918
+LGA171,Mansfield,6619
+LGA172,Maribyrnong,40501
+LGA173,Maroondah,46937
+LGA174,Melbourne,103368
+LGA175,Melton,60363
+LGA176,Mildura,25371
+LGA177,Mitchell,19590
+LGA178,Moira,14948
+LGA179,Monash,76463
+LGA180,Moonee Valley,55115
+LGA181,Moorabool,15473
+LGA182,Moreland,78310
+LGA183,Mornington Peninsula,93602
+LGA184,Mount Alexander,10141
+LGA185,Moyne,8550
+LGA186,Murrindindi,8349
+LGA187,Nillumbik,22406
+LGA188,Northern Grampians,6253
+LGA189,Port Phillip,63301
+LGA190,Pyrenees,3939
+LGA191,Queenscliffe,2902
+LGA192,South Gippsland,17145
+LGA193,Southern Grampians,8292
+LGA194,Stonnington,59609
+LGA195,Strathbogie,6164
+LGA196,Surf Coast,20678
+LGA197,Swan Hill,9554
+LGA198,Towong,3125
+LGA199,Wangaratta,13677
+LGA200,Warrnambool,16025
+LGA201,Wellington,23554
+LGA202,West Wimmera,2255
+LGA203,Whitehorse,71712
+LGA204,Whittlesea,82993
+LGA205,Wodonga,18214
+LGA206,Wyndham,100363
+LGA207,Yarra,50059
+LGA208,Yarra Ranges,61574
+LGA209,Yarriambiack,3598
+LGA210,Unincorporated Vic,1054
+LGA211,Migratory - Offshore - Shipping (Vic.),49
+LGA212,Aurukun,343
+LGA213,Balonne,2283
+LGA214,Banana,7247
+LGA215,Barcaldine,1896
+LGA216,Barcoo,267
+LGA217,Blackall Tambo,1152
+LGA218,Boulia,307
+LGA219,Brisbane,519431
+LGA220,Bulloo,230
+LGA221,Bundaberg,46081
+LGA222,Burdekin,8259
+LGA223,Burke,546
+LGA224,Cairns,72620
+LGA225,Carpentaria,1639
+LGA226,Cassowary Coast,15123
+LGA227,Central Highlands (Qld),14180
+LGA228,Charters Towers,5974
+LGA229,Cherbourg,332
+LGA230,Cloncurry,2123
+LGA231,Cook,3163
+LGA232,Croydon,214
+LGA233,Diamantina,228
+LGA234,Doomadgee,376
+LGA235,Douglas,6981
+LGA236,Etheridge,750
+LGA237,Flinders (Qld),992
+LGA238,Fraser Coast,52621
+LGA239,Gladstone,29868
+LGA240,Gold Coast,270761
+LGA241,Goondiwindi,4857
+LGA242,Gympie,24767
+LGA243,Hinchinbrook,6030
+LGA244,Hope Vale,348
+LGA245,Ipswich,87352
+LGA246,Isaac,11014
+LGA247,Kowanyama,308
+LGA248,Livingstone,17841
+LGA249,Lockhart River,228
+LGA250,Lockyer Valley,16162
+LGA251,Logan,125977
+LGA252,Longreach,2169
+LGA253,Mackay,52308
+LGA254,McKinlay,497
+LGA255,Mapoon,151
+LGA256,Maranoa,6510
+LGA257,Mareeba,10199
+LGA258,Moreton Bay,188327
+LGA259,Mornington,373
+LGA260,Mount Isa,9053
+LGA261,Murweh,2269
+LGA262,Napranum,265
+LGA263,Noosa,28715
+LGA264,North Burnett,5494
+LGA265,Northern Peninsula Area,1100
+LGA266,Palm Island,562
+LGA267,Paroo,1173
+LGA268,Pormpuraaw,253
+LGA269,Quilpie,507
+LGA270,Redland,65216
+LGA271,Richmond,438
+LGA272,Rockhampton,35813
+LGA273,Scenic Rim,18468
+LGA274,Somerset,11020
+LGA275,South Burnett,16096
+LGA276,Southern Downs,17447
+LGA277,Sunshine Coast,149005
+LGA278,Tablelands,13184
+LGA279,Toowoomba,74054
+LGA280,Torres,1349
+LGA281,Torres Strait Island,1357
+LGA282,Townsville,83412
+LGA283,Weipa,1839
+LGA284,Western Downs,16165
+LGA285,Whitsunday,18043
+LGA286,Winton,872
+LGA287,Woorabinda,316
+LGA288,Wujal Wujal,93
+LGA289,Yarrabah,524
+LGA290,Migratory - Offshore - Shipping (Qld),98
+LGA291,Adelaide,14766
+LGA292,Adelaide Hills,16270
+LGA293,Adelaide Plains,4006
+LGA294,Alexandrina,16760
+LGA295,Anangu Pitjantjatjara Yunkunytjatjara,778
+LGA296,Barossa,11044
+LGA297,Barunga West,1928
+LGA298,Berri Barmera,5257
+LGA299,Burnside,19630
+LGA300,Campbelltown (SA),23247
+LGA301,Ceduna,1909
+LGA302,Charles Sturt,54847
+LGA303,Clare and Gilbert Valleys,4678
+LGA304,Cleve,975
+LGA305,Coober Pedy,1481
+LGA306,Copper Coast,9242
+LGA307,Elliston,849
+LGA308,Flinders Ranges,1084
+LGA309,Franklin Harbour,876
+LGA310,Gawler,11126
+LGA311,Goyder,2371
+LGA312,Grant,3745
+LGA313,Holdfast Bay,18707
+LGA314,Kangaroo Island,3350
+LGA315,Karoonda East Murray,610
+LGA316,Kimba,616
+LGA317,Kingston (SA),1733
+LGA318,Light,6046
+LGA319,Lower Eyre Peninsula,3028
+LGA320,Loxton Waikerie,5787
+LGA321,Maralinga Tjarutja,41
+LGA322,Marion,41654
+LGA323,Mid Murray,7413
+LGA324,Mitcham,27169
+LGA325,Mount Barker,16054
+LGA326,Mount Gambier,12789
+LGA327,Mount Remarkable,1866
+LGA328,Murray Bridge,10164
+LGA329,Naracoorte Lucindale,4076
+LGA330,Northern Areas,2424
+LGA331,Norwood Payneham and St Peters,18126
+LGA332,Onkaparinga,75493
+LGA333,Orroroo Carrieton,541
+LGA334,Peterborough,1073
+LGA335,Playford,39505
+LGA336,Port Adelaide Enfield,56716
+LGA337,Port Augusta,7015
+LGA338,Port Lincoln,6970
+LGA339,Port Pirie,8589
+LGA340,Prospect,9474
+LGA341,Renmark Paringa,4669
+LGA342,Robe,1669
+LGA343,Roxby Downs,1781
+LGA344,Salisbury,57117
+LGA345,Southern Mallee,1077
+LGA346,Streaky Bay,1393
+LGA347,Tatiara,3194
+LGA348,Tea Tree Gully,41034
+LGA349,Coorong,3106
+LGA350,Tumby Bay,1681
+LGA351,Unley,17360
+LGA352,Victor Harbor,9764
+LGA353,Wakefield,3348
+LGA354,Walkerville,3663
+LGA355,Wattle Range,6114
+LGA356,West Torrens,27977
+LGA357,Whyalla,11247
+LGA358,Wudinna,616
+LGA359,Yankalilla,4403
+LGA360,Yorke Peninsula,10310
+LGA361,Unincorporated SA,2910
+LGA362,Migratory - Offshore - Shipping (SA),11
+LGA363,Albany,18033
+LGA364,Armadale,36306
+LGA365,Ashburton,3727
+LGA366,Augusta Margaret River,8918
+LGA367,Bassendean,7187
+LGA368,Bayswater,32165
+LGA369,Belmont,20355
+LGA370,Beverley,971
+LGA371,Boddington,839
+LGA372,Boyup Brook,927
+LGA373,Bridgetown-Greenbushes,2688
+LGA374,Brookton,482
+LGA375,Broome,9419
+LGA376,Broomehill-Tambellup,577
+LGA377,Bruce Rock,425
+LGA378,Bunbury,15960
+LGA379,Busselton,21315
+LGA380,Cambridge,11522
+LGA381,Canning,37259
+LGA382,Capel,7110
+LGA383,Carnamah,371
+LGA384,Carnarvon,3763
+LGA385,Chapman Valley,694
+LGA386,Chittering,2410
+LGA387,Christmas Island,623
+LGA388,Claremont,5251
+LGA389,Cockburn,48428
+LGA390,Cocos Islands,204
+LGA391,Collie,4121
+LGA392,Coolgardie,1798
+LGA393,Coorow,947
+LGA394,Corrigin,508
+LGA395,Cottesloe,3612
+LGA396,Cranbrook,612
+LGA397,Cuballing,488
+LGA398,Cue,204
+LGA399,Cunderdin,659
+LGA400,Dalwallinu,611
+LGA401,Dandaragan,2805
+LGA402,Dardanup,6053
+LGA403,Denmark,3670
+LGA404,Derby-West Kimberley,3604
+LGA405,Donnybrook-Balingup,2821
+LGA406,Dowerin,422
+LGA407,Dumbleyung,335
+LGA408,Dundas,632
+LGA409,East Fremantle,3327
+LGA410,East Pilbara,3625
+LGA411,Esperance,6844
+LGA412,Exmouth,2662
+LGA413,Fremantle,15751
+LGA414,Gingin,4107
+LGA415,Gnowangerup,671
+LGA416,Goomalling,527
+LGA417,Gosnells,47117
+LGA418,Greater Geraldton,18018
+LGA419,Halls Creek,1674
+LGA420,Harvey,11874
+LGA421,Irwin,2163
+LGA422,Jerramungup,913
+LGA423,Joondalup,62177
+LGA424,Kalamunda,23347
+LGA425,Kalgoorlie-Boulder,13248
+LGA426,Karratha,10056
+LGA427,Katanning,1843
+LGA428,Kellerberrin,621
+LGA429,Kent,266
+LGA430,Kojonup,1037
+LGA431,Kondinin,471
+LGA432,Koorda,246
+LGA433,Kulin,396
+LGA434,Kwinana,17628
+LGA435,Lake Grace,751
+LGA436,Laverton,396
+LGA437,Leonora,839
+LGA438,Mandurah,44140
+LGA439,Manjimup,5035
+LGA440,Meekatharra,608
+LGA441,Melville,42920
+LGA442,Menzies,237
+LGA443,Merredin,1636
+LGA444,Mingenew,274
+LGA445,Moora,1156
+LGA446,Morawa,320
+LGA447,Mosman Park,4122
+LGA448,Mount Magnet,410
+LGA449,Mount Marshall,315
+LGA450,Mukinbudin,328
+LGA451,Mundaring,14962
+LGA452,Murchison,81
+LGA453,Murray,8192
+LGA454,Nannup,1014
+LGA455,Narembeen,402
+LGA456,Narrogin,2409
+LGA457,Nedlands,8407
+LGA458,Ngaanyatjarraku,607
+LGA459,Northam,5237
+LGA460,Northampton,2382
+LGA461,Nungarin,135
+LGA462,Peppermint Grove,615
+LGA463,Perenjori,254
+LGA464,Perth,17636
+LGA465,Pingelly,553
+LGA466,Plantagenet,2676
+LGA467,Port Hedland,7942
+LGA468,Quairading,499
+LGA469,Ravensthorpe,1405
+LGA470,Rockingham,54910
+LGA471,Sandstone,94
+LGA472,Serpentine-Jarrahdale,11234
+LGA473,Shark Bay,1295
+LGA474,South Perth,20882
+LGA475,Stirling,102177
+LGA476,Subiaco,8829
+LGA477,Swan,58928
+LGA478,Tammin,238
+LGA479,Three Springs,319
+LGA480,Toodyay,2382
+LGA481,Trayning,253
+LGA482,Upper Gascoyne,159
+LGA483,Victoria Park,18019
+LGA484,Victoria Plains,411
+LGA485,Vincent,18208
+LGA486,Wagin,888
+LGA487,Wandering,260
+LGA488,Wanneroo,78061
+LGA489,Waroona,2224
+LGA490,West Arthur,376
+LGA491,Westonia,147
+LGA492,Wickepin,335
+LGA493,Williams,507
+LGA494,Wiluna,273
+LGA495,Wongan-Ballidu,685
+LGA496,Woodanilling,221
+LGA497,Wyalkatchem,358
+LGA498,Wyndham-East Kimberley,4366
+LGA499,Yalgoo,139
+LGA500,Yilgarn,715
+LGA501,York,1883
+LGA502,Migratory - Offshore - Shipping (WA),170
+LGA503,Break O'Day,4850
+LGA504,Brighton,7530
+LGA505,Burnie,9274
+LGA506,Central Coast (Tas.),10434
+LGA507,Central Highlands (Tas.),2752
+LGA508,Circular Head,4064
+LGA509,Clarence,25894
+LGA510,Derwent Valley,4749
+LGA511,Devonport,12071
+LGA512,Dorset,3948
+LGA513,Flinders (Tas.),689
+LGA514,George Town,3685
+LGA515,Glamorgan-Spring Bay,4752
+LGA516,Glenorchy,21879
+LGA517,Hobart,24864
+LGA518,Huon Valley,8767
+LGA519,Kentish,2915
+LGA520,King Island,897
+LGA521,Kingborough,17301
+LGA522,Latrobe (Tas.),5816
+LGA523,Launceston,31369
+LGA524,Meander Valley,9276
+LGA525,Northern Midlands,6444
+LGA526,Sorell,8134
+LGA527,Southern Midlands,2978
+LGA528,Tasman,2644
+LGA529,Waratah-Wynyard,6909
+LGA530,West Coast,3123
+LGA531,West Tamar,11308
+LGA532,Migratory - Offshore - Shipping (Tas.),16
+LGA533,Alice Springs,11681
+LGA534,Barkly,2932
+LGA535,Belyuen,42
+LGA536,Central Desert,1272
+LGA537,Coomalie,1065
+LGA538,Darwin,34806
+LGA539,Darwin Waterfront Precinct,258
+LGA540,East Arnhem,1968
+LGA541,Katherine,4436
+LGA542,Litchfield,8883
+LGA543,MacDonnell,2243
+LGA544,Palmerston,14542
+LGA545,Roper Gulf,2923
+LGA546,Tiwi Islands,798
+LGA547,Victoria Daly,1232
+LGA548,Wagait,293
+LGA549,West Arnhem,2225
+LGA550,West Daly,709
+LGA551,Unincorporated NT,4175
+LGA552,Migratory - Offshore - Shipping (NT),74
+LGA553,Unincorporated ACT,187156
+LGA554,Migratory - Offshore - Shipping (ACT),0
+LGA555,Unincorp. Other Territories,1376
+LGA556,Migratory - Offshore - Shipping (OT),0
